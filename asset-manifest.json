@@ -1,0 +1,23 @@
+{
+  "files": {
+    "app.js": "/cripto/static/js/app.dd2b094e.chunk.js",
+    "app.js.map": "/cripto/static/js/app.dd2b094e.chunk.js.map",
+    "runtime~app.js": "/cripto/static/js/runtime~app.707fe3e1.js",
+    "runtime~app.js.map": "/cripto/static/js/runtime~app.707fe3e1.js.map",
+    "static/js/2.41c6e252.chunk.js": "/cripto/static/js/2.41c6e252.chunk.js",
+    "static/js/2.41c6e252.chunk.js.map": "/cripto/static/js/2.41c6e252.chunk.js.map",
+    "favicon-16.png": "/cripto/favicon-16.png",
+    "favicon-32.png": "/cripto/favicon-32.png",
+    "favicon.ico": "/cripto/favicon.ico",
+    "index.html": "/cripto/index.html",
+    "manifest.json": "/cripto/manifest.json",
+    "serve.json": "/cripto/serve.json",
+    "static/js/2.41c6e252.chunk.js.LICENSE.txt": "/cripto/static/js/2.41c6e252.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/cripto/static/media/logo.2e4e33c3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.707fe3e1.js",
+    "static/js/2.41c6e252.chunk.js",
+    "static/js/app.dd2b094e.chunk.js"
+  ]
+}
