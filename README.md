@@ -6,6 +6,7 @@ Se puede ver y buscar en un listado, la cotización actualizada de todas las cri
 
 
 - Para visualizar el proyecto se puede acceder de dos maneras:
+- 
   1- Github pages: https://mpazsanchez.github.io/cripto/ 
   o
   2- Siguiendo los siguientes pasos:
