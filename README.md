@@ -2,7 +2,7 @@
 Proyecto realizado en React Native, diseñado para dispositivos móviles.
 Se puede ver y buscar en un listado, la cotización actualizada de todas las criptomonedas y su equivalencia en dólares.
 
-![Vista en dispositivo móvil] ()
+![Vista en dispositivo móvil](https://github.com/mpazsanchez/cripto/blob/main/Vistas.jpg)
 
 
 - Para visualizar el proyecto se puede acceder de dos maneras:
